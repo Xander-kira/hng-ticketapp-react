@@ -78,4 +78,11 @@ npm install
  ```
 npm run dev
  ```
+
+ ---
+
+## 🔴 Live Demo
+
+React Version (HNG Stage 2)  
+👉 [View Live Project](https://hng-ticketapp-react.vercel.app)
    
