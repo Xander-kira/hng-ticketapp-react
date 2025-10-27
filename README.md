@@ -47,7 +47,7 @@ TicketApp helps users manage support tickets efficiently — featuring authentic
 ## 🖥️ Preview
 
 ![App Preview](https://raw.githubusercontent.com/Xander-kira/hng-ticketapp-react/main/Screenshot%202025-10-26%20172959.png
-9                           )
+                          )
 
 > _You can replace the above placeholder with your screenshot later._
 > Example: upload your landing page screenshot, right-click it on GitHub, copy image address, and paste it here.
